@@ -1,76 +1,67 @@
-## Lucas De Lavra Pinto
+# Lucas De Lavra Pinto
+Contato: [E-mail](mailto:lucasdelavrapinto@gmail.com) \
+Linkedin: [Click Here](https://www.linkedin.com/in/lucasdelavrapinto/)
 
-Contato: lucasdelavrapinto@gmail.com
+## Resume
+Profissional com mais de 4 anos de experiência como desenvolvedor de sistemas web e aplicativos. Amplo conhecimento no desenvolvimento de sites em Laravel (PHP) e front-end (HTML, CSS, JAVASCRIPT, JQuery). 
 
-### Projetos
-- Aplicativo para clientes da empresa
-  - Source: [Android](https://play.google.com/store/apps/details?id=br.com.unetvale.sac)
-  - Source: [iOS](https://apps.apple.com/us/app/sou-unetvale/id1513637735)
+Desenvolvedor de Sistemas web e aplicativos para Android e iOS com Flutter/Dart.
 
-- Dashboard para cadastro de funcionários
-  - Source: [Github](https://github.com/lucasdelavrapinto/ezoom-dev-test)
+## Projects
+- 6 Aplicativos publicados na PlayStore (Android)
 
-- Dashboard para Lançamento de despesas(em desenvolvimento)
-  - Source: [Github](https://github.com/lucasdelavrapinto/meajuda2)
+- 1 Aplicativo publicado na Apple Store (iOS)
 
-- Dashboard Integrado via API com o Bling ERP (CRUD)
-  - Source: [Github](https://github.com/lucasdelavrapinto/ArgonAPI-Bling)
+- 1 Sistema completamente desenvolvido por mim rodando há mais de 1 ano, totalmente. Desde servidor, banco de dados, API, sistema web e aplicativo.
 
-### Áreas de Interesse
+## Soft Skills
+- Resolução de Problemas Complexos
+- Pensamento Crítico
+- Analítico
+- Resiliente
+- Ético
 
-- Desenvolvedor web e Mobile
 
-### Principais Cursos / Especializações
+## Principais Cursos / Especializações
 
-- Montagem e Manutenção de Computadores ( Presencial )
-- Redes de Computadores ( Presencial )
-- Linux para servidores. Mód. 1 ( Presencial )
-- Desenvolvimento Web – PHP & Laravel ( Presencial )
-- MongoDB ( Online )
-- Javascript Begginer ( Online )
-- Django2 (Online)
-- Python3 (Online)
-- Git e Github (Online)
-- Ionic 3 Begginer (Online)
-- Flutter Mobile (Online)
+### Presencial
+- Montagem e Manutenção de Computadores
+- Redes de Computadores
+- Linux para servidores
+- Desenvolvimento Web – PHP & Laravel
 
-### <span style="color:teal">Experiências</span> e Conhecimentos
+### Online
+- MongoDB, Javascript, Django2, Python3 
+- Git e Github, Ionic 3 Begginer, Flutter Mobile 
 
-- Linguagens: <span style="color:">PHP</span> e Python
-- <span style="color:teal">HTML, CSS, Javascript, JQuery e Bootstrap.</span>
-- Frameworks: Flask, Django e <span style="color:teal">Laravel.</span>
-- Banco: <span style="color:teal">MySQL</span> e MongoDB
-- Mobile: Dart, Flutter e Ionic.
-- Versionamento: <span style="color:teal">Git</span> (Github, Gitlab)
+## Experiências e Conhecimentos
+
+- Linguagens: PHP, Node, Python
+- HTML, CSS, Javascript, JQuery, Bootstrap, Vue
+- Frameworks: Flask, Django e Laravel
+- Banco: MySQL, PostgreSQL e MongoDB
+- Mobile: Dart, Flutter, Ionic.
+- Versionamento: Git (Github, Gitlab, Bitbucket)
 - API REST, Integrações, WebSocket.
-
-### Formação Acadêmica
-
-- FSG – Bento Gonçalves - 1º ano/2018 (Trancado)
-  Análise e Desenvolvimento de Sistemas
 
 ### Outros Cursos
 
 - Inglês Básico - Skill Idiomas – 1º ano/2018 – Concluído
 
-### Metas Acadêmicas para 2020
 
-- Profissional: Inglês Técnico - Pessoal: Nível Intermediário / Avançado
-- Desenvolvimento Mobile Flutter
-- Desenvolvimento de software usando metodologias ágeis (SCRUM)
-
-
-### Objetivo pessoal e profissional
-
-Poder resolver os problemas de outras pessoas sempre me motivou, por isso comecei minha carreira como técnico em informática, porém eu estava limitado a resolver problemas de pessoas com problemas de periféricos.
-Então decidi migrar minha carreira para Suporte Técnico, assim comecei a compreender melhor as necessidades de cada um e aperfeiçoei também minha dicção.
-Após 3 anos atuando como suporte, resolvi aprimorar ainda mais minhas competências e alterar novamente meu perfil para então me tornar desenvolvedor de sistemas, dessa forma eu poderia criar muito mais soluções para o público nacional.
 
 
 ### Últimos empregos:
 
+> **AGROGALAXY** (https://agrogalaxy.com.br/) \
+> Desde 01 de Fevereiro de 2022 até o momento \
+> Função exercida: Desenvolvedor Fullstack \
+> Web: PHP (Laravel) |Banco: Postgresql \
+> Mobile: Ionic
+
+
 > **UNETVALE INTERNET** (https://unetvale.com.br/) \
-> Desde 16 de Setembro de 2019 até o momento \
+> Desde 16 de Setembro de 2019 até 31 de Janeiro de 2022 \
 > Função exercida: Desenvolvedor web e Mobile \
 > Web: PHP (Laravel) |Banco: Postgresql \
 > Mobile: Flutter e Dart
@@ -78,18 +69,20 @@ Após 3 anos atuando como suporte, resolvi aprimorar ainda mais minhas competên
 > **ORGANIZEE** (https://www.organizee.com.br) \
 > Desde 01 de Julho de 2018 a 15 de Fevereiro de 2019 \
 > Função exercida: Desenvolvedor web back-end \
-> Linguagem: PHP (Laravel) |Banco: MySQL
+> Linguagem: PHP (Laravel) \
+> Banco: MySQL
 
 > **BOREAL TECNOLOGIA** \
 > Desde 26 de Março de 2018 a 15 de Dezembro de 2018 \
 > Função exercida: Desenvolvedor web e auxiliar de cientista de dados. \
-> Linguagem: Python (Flask e Django) |Banco: MongoDB
+> Linguagem: Python ( Flask e Django ) \
+> Banco: MongoDB
 
-> **ORGANISYS SOFTWARE LTDA** ( BLING www.bling.com.br ) \
+> **BLING** (https://www.bling.com.br ) \
 > Desde 22 de Abril de 2015 a 21 de Março de 2018 \
 > Função exercida: Suporte Técnico
 
-> **TRANSPORTES BERTOLINI LTDA** ( TBL www.tbl.com.br ) \
+> **TRANSPORTES BERTOLINI LTDA** (https://www.tbl.com.br) \
 > Desde 09 de Janeiro de 2013 a 21 de Outubro de 2014 \
 > Função exercida: Auxiliar de Suporte de TI
 
@@ -100,3 +93,6 @@ Após 3 anos atuando como suporte, resolvi aprimorar ainda mais minhas competên
 > **INFOSERV COMPUTADORES** ( Imagem Informática ) \
 > De 10 de Março de 2011 a 09 de Novembro de 2011 \
 > Função exercida: Auxiliar Técnico em Informática
+
+<hr>
+<em>Last update: 19/02/2023</em>
